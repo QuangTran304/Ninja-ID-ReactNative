@@ -1,5 +1,5 @@
 # Ninja-ID-ReactNative
-I wrote an exact same app as before to compare with the one uses Flutter.
+I wrote an exact same app as before to compare with the one uses Flutter. The app has 1 clickable button at bottom right to increase the "Ninja level".
 
 ## About
 This is a dead simple app I wrote just to compare the following points between React Native vs. [this Flutter app](https://github.com/QuangTran304/Ninja-ID)
