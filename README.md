@@ -9,4 +9,4 @@ This is a dead simple app I wrote just to compare the following points between R
 - Ease of implementation
 
 ## App Screenshot
-<img src="https://github.com/QuangTran304/Ninja-ID-ReactNative/blob/main/RN%20app.png">
+<img src="https://github.com/QuangTran304/Ninja-ID-ReactNative/blob/main/RN%20app.png" width="450">
