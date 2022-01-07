@@ -10,3 +10,8 @@ This is a dead simple app I wrote just to compare the following points between R
 
 ## App Screenshot
 <img src="https://github.com/QuangTran304/Ninja-ID-ReactNative/blob/main/RN%20app.png" width="450">
+
+## Instructions
+- Main app entry point is `App.js`
+- Run `yarn install` to download all dependencies
+- Run `expo start` ==> select `run on iOS / Android simulator` from the popup browser window
